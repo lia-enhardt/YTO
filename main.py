@@ -1,3 +1,6 @@
+# Author of the Rust script:
+# https://github.com/SnakeSolid/
+
 # Compile script, using pyinstaller:
 # pyinstaller --noconsole --onefile main.py
 
