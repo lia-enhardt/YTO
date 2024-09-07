@@ -10,6 +10,6 @@ yt_optimizer
 
 •                -> Save
 
-![img.png](img.png)
+![proxy.png](proxy.png)
 
 **2.** How to do the same thing on an android phone...
