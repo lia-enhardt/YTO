@@ -1,15 +1,15 @@
-yt_optimizer
+YTO (YT Optimizer), for Windows 10 x64 only
 
-**0.** Install Visual C++ 2015-2022, at first.
+**1.** Install Visual C++ 2015-2022 (VC_2015-2022_x64.exe)
 
-**1.** Add proxy.pac to the Proxy settings on a PC (Win10):
+**2.** Change system proxy settings:
+
+![img.png](img.png)
 
 • Use setup script (On)
 
-• Script address -> enter 'file:///D:/proxy.pac
+• Script address -> Enter path to the proxy.pac
 
 •                -> Save
 
-![proxy.png](proxy.png)
-
-**2.** How to do the same thing on an android phone...
+**3.** Currently working on how to do the same thing on an android phone...
