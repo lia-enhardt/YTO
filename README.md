@@ -1,5 +1,7 @@
 yt_optimizer
 
+**0.** Install Visual C++ 2015-2022, at first.
+
 **1.** Add proxy.pac to the Proxy settings on a PC (Win10):
 
 • Use setup script (On)
