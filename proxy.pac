@@ -22,7 +22,11 @@ function FindProxyForURL(url, host) {
     dnsDomainIs(host, ".gstatic.com") ||
     dnsDomainIs(host, ".gvt1.com") ||
     dnsDomainIs(host, ".gvt2.com") ||
-    dnsDomainIs(host, ".gvt3.com")
+    dnsDomainIs(host, ".gvt3.com") ||
+
+    dnsDomainIs(host, ".m.youtube.com") ||        // Mobile YouTube domain
+    dnsDomainIs(host, ".youtube-nocookie.com") || // No-cookie YouTube domain
+    dnsDomainIs(host, ".youtubei.googleapis.com") // YouTube API domain
   ) {
     return "SOCKS5 localhost:1080; DIRECT";
   } else {
