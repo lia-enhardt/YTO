@@ -11,5 +11,3 @@
 • Script address -> Enter path to the proxy.pac
 
 •                -> Save
-
-**3.** Currently working on how to do the same thing on an android phone...
